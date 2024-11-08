@@ -1,7 +1,7 @@
 Subject: Human Robot Interaction
 Group Number: 6
 Team Members:
-AJZAL ASHRAF VALIYAKATH
+AJZAL ASHRAF VALIYAKATH,
 SANJU HANNAH SAMUEL
 
 Topic: Story Telling Social Robot Marty
