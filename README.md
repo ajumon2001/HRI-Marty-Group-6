@@ -1,5 +1,6 @@
-Subject: Human Robot Interaction
+Subject: Human Robot Interaction.
 Group Number: 6
+
 Team Members:
 
 AJZAL ASHRAF VALIYAKATH,
